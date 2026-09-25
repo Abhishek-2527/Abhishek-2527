@@ -24,7 +24,7 @@
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,spring,nodejs,react,expressjs,mongodb,azure,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,spring,nodejs,react,expressjs,mongodb,azure,git,github,vercel,tkinter.SQLite,sqlite3,Matplotlib,VSCode" />
 </p>
 
 ---
